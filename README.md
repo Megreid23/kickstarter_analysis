@@ -9,7 +9,7 @@ Kickstarter analysis to uncover data trends for theater project
 ### Analysis and Challenges
 
 Analysis
-* First, by using the YEAR() function, I added a column in the Kickstarter sheet to track what year each theater campaign was started,
+* First, by using the YEAR() function, I added a column in the Kickstarter sheet to track what year each theater campaign was started.
 * In a new sheet, a PivotTable was created showing the category, time frame in months, and the success, failure, or canceled rate of each play broken down by month.
 * Using this data, I created a line chart to help visualize what these numbers actually look like over the course of a year.
 ![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
@@ -19,10 +19,10 @@ Analysis
 ![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
 
 Challenges
-* I did not struggle much with the first deliverable, though I can see issues with being able to accurately determione the YEAR() values if the Date Created Conversion column was not completed correctly or there was an error in one row.
+* I did not struggle much with the first deliverable, though I can see issues with being able to accurately determine the YEAR() values if the Date Created Conversion column was not completed correctly or there was an error in one row.
 * I did, however, have several issues with the second deliverable. 
-** It took me some time to work the formula for COUNTIFS into the sheet, primarily because I missed a step in the instructions and didn't include that part of the formula when calculating the total successes, failures, and cancellations.
-** When doing the line chart, I mistakenly chose a stacked line chart instead and could not get the selected data (the percentages of success, failure, and cancellations) to properly appear in the chart. I tried changing the type from bar (where all data appeared as it should) to (stacked) line, where it then disappeared, before realizing I was using the wrong type of line chart.
+-It took me some time to work the formula for COUNTIFS into the sheet, primarily because I missed a step in the instructions and didn't include that part of the formula when calculating the total successes, failures, and cancellations.
+-When doing the line chart, I mistakenly chose a stacked line chart instead and could not get the selected data (the percentages of success, failure, and cancellations) to properly appear in the chart. I tried changing the type from bar (where all data appeared as it should) to (stacked) line, where it then disappeared, before realizing I was using the wrong type of line chart.
 
 
 ### Results
