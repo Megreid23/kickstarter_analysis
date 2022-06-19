@@ -12,7 +12,7 @@ Kickstarter analysis to uncover data trends for theater project
 * First, by using the YEAR() function, I added a column in the Kickstarter sheet to track what year each theater campaign was started,
 * In a new sheet, a PivotTable was created showing the category, time frame in months, and the success, failure, or canceled rate of each play broken down by month.
 * Using this data, I created a line chart to help visualize what these numbers actually look like over the course of a year.
-![image_name](path/to/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png](path/to/Theater_Outcomes_vs_Launch.png)
 
 * In a separate sheet, I made a data table showing the rate of success, failure, and cancellation (using the COUNTIFS() function), and the total amount of projects (using SUM()), as well as their percentages based on the goal dollar amount of fundraising for each project (for this I did need to Google how to do this, using variable1/variable2 to complete it)
 * A line chart was created to help visualize the percentage of these categories.
