@@ -15,6 +15,7 @@ Analysis
 ![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
 
 * In a separate sheet, I made a data table showing the rate of success, failure, and cancellation (using the COUNTIFS() function), and the total amount of projects (using SUM()), as well as their percentages based on the goal dollar amount of fundraising for each project (for this I did need to Google how to do this, using variable1/variable2 to complete it)
+link: https://support.microsoft.com/en-us/office/calculate-percentages-6b5506e9-125a-4aba-a638-d6b40e603981
 * A line chart was created to help visualize the percentage of these categories.
 ![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
 
