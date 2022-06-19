@@ -20,14 +20,16 @@ Analysis
 
 Challenges
 * I did not struggle much with the first deliverable, though I can see issues with being able to accurately determine the YEAR() values if the Date Created Conversion column was not completed correctly or there was an error in one row.
-* I did, however, have several issues with the second deliverable. 
+* I did, however, have several issues with the second deliverable.
+ 
 -It took me some time to work the formula for COUNTIFS into the sheet, primarily because I missed a step in the instructions and didn't include that part of the formula when calculating the total successes, failures, and cancellations.
+
 -When doing the line chart, I mistakenly chose a stacked line chart instead and could not get the selected data (the percentages of success, failure, and cancellations) to properly appear in the chart. I tried changing the type from bar (where all data appeared as it should) to (stacked) line, where it then disappeared, before realizing I was using the wrong type of line chart.
 
 
 ### Results
-1) the most successful theater productions all occurred over the summer months, as opposed to the winter months.
-2) while there was some increase during the summer for the failed productions, the line graph shows far less change, indicating there might be some other reason for these failures than time of year.
+1) The most successful theater productions all occurred over the summer months, as opposed to the winter months.
+2) While there was some increase during the summer for the failed productions, the line graph shows far less change, indicating there might be some other reason for these failures than time of year.
 3) This other reason can be postulated from the data shown in the Outcomes Based on Goal chart, where it can be seen that the higher the goal of the fundraising campaign, the more likely productions are to fail or fewer are to be successful.
 4) Limitations could include a lack of defining what the subject matter in relation to popular culture at the time of the production may have had to do with impacting the success of the production, as well as the geographical location and population density that the production took place in.
 5) Another table/chart that could be helpful would be one that tracks the success, failure, and cancellation rate in relation to how long each fundraising campaign went on for.
