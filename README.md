@@ -16,7 +16,7 @@ Analysis
 
 * In a separate sheet, I made a data table showing the rate of success, failure, and cancellation (using the COUNTIFS() function), and the total amount of projects (using SUM()), as well as their percentages based on the goal dollar amount of fundraising for each project (for this I did need to Google how to do this, using variable1/variable2 to complete it)
 * A line chart was created to help visualize the percentage of these categories.
-![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
 
 Challenges
 * I did not struggle much with the first deliverable, though I can see issues with being able to accurately determione the YEAR() values if the Date Created Conversion column was not completed correctly or there was an error in one row.
